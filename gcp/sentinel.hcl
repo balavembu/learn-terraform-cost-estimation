@@ -1,3 +1,3 @@
-policy "less-than-100-month" {
+policy "test100" {
   enforcement_level = "soft-mandatory"
 }
